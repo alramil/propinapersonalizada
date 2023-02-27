@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">propinaspersonalizadas</string>
+    <string name="tasa">Calculate Tip</string>
+    <string name="propina">Bill Amount</string>
+    <string name="valoracion">Tip (%)</string>
+    <string name="redondeo">Round up tip?</string>
+    <string name="cantidad">Tip Amount: %s</string>
+</resources>
